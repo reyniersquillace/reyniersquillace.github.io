@@ -2,7 +2,8 @@
 permalink: /about/
 title: "About"
 ---
+I'm Reynier Squillace, a third-year PhD candidate at the University of Virginia. I write code for the CHIME All-sky Multiday Pulsar Stack Search, a project based in Penticton, Canada that stacks observations of the sky together every day to search for new transients. I'm interested in algorithm development for messy radio data, and applying those algorithms to weird binaries in space. 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I also write for ExplorersWeb as a science and history reporter. In my spare time, I teach trapeze and take photos on hikes.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+You can contact me at squillace@virginia.edu. 
