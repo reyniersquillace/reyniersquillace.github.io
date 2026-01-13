@@ -55,35 +55,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Reynier Squillace"
+  avatar : "/assets/images/106_2556.JPG"
+  bio    : "I'm Reynier Squillace, a third-year PhD candidate at the University of Virginia. I write code for the CHIME All-sky Multiday Pulsar Stack Search, a project based in Penticton, Canada that stacks observations of the sky together every day to search for new transients. I'm interested in algorithm development for messy radio data, and applying those algorithms to weird binaries in space. I also write for ExplorersWeb as a science and history reporter. In my spare time, I teach trapeze and take photos on hikes."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fa fa-envelope-square"
+      url: "squillace@virginia.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/reyniersquillace"
+    - label: "ExplorersWeb"
+      icon: "fa fa-wpexplorer"
+      url: "explorersweb.com/author/reynier/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/reyniersquillace"
+      
 defaults:
   # _posts
   - scope:
