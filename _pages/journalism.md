@@ -1,5 +1,5 @@
 ---
-permalink: /Journalism/
+permalink: /journalism/
 title: "Journalism"
 ---
 I'm a science communicator and sporadic history/archaeology/outdoors reporter for ExplorersWeb. My portfolio can be found <a href="https://explorersweb.com/author/reynier/">here</a>.
