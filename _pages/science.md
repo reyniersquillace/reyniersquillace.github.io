@@ -8,6 +8,7 @@ I'm particularly interested in pulsars with Main Sequence companions. How can we
 
 <em>Papers as First Author</em>
 <li>CHIME All-sky Multiday Pulsar Stacking Search (CHAMPSS): Power Spectrum Injections and Survey Sensitivity (Squillace et al, submitted Oct. 2025</li>
+
 <em>Papers as Contributing Author</em>
 <ul></ul>
 <li>CHIME All-sky Multiday Pulsar Stacking Search (CHAMPSS): System Overview and First Discoveries (Andrade et al 2025)</li>
